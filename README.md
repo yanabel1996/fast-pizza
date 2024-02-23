@@ -1,8 +1,17 @@
-# React + Vite
+# Fast Pizza Co.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello everyone 👋, my name is `Iana Belousova`, I am Frontend Developer. I created this project, Fast Pizza Co., to demonstrate my skills and knowledge in React.
 
-Currently, two official plugins are available:
+### Tech Stack:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- JavaScript
+- React
+- Vite,
+- Redux
+- React Routing
+- SCSS,
+- Eslint
+
+### Deploy
+
+You can view the website in your browser by following the [link](https://splendid-sunburst-036c89.netlify.app/)
